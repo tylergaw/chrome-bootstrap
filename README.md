@@ -1,4 +1,4 @@
-Chrome UI bootstrap
+Chrome UI bootstrap - Sass/Compass Fork
 ================
 
 [Style guide](http://roykolak.github.com/chrome-bootstrap/)
