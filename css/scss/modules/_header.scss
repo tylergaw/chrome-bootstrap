@@ -1,0 +1,22 @@
+header {
+    position: fixed;
+    background: #FFF;
+    width: 738px;
+    z-index: 2;
+
+    h1 {
+        padding: 21px 0 13px;
+        margin: 0;
+        border-bottom: 1px solid #EEE;
+    }
+
+    .corner {
+        position: absolute;
+        right: 0px;
+        top: 21px;
+
+        input[type="text"] {
+            width: 210px;
+        }
+    }
+}
