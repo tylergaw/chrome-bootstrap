@@ -1,6 +1,5 @@
 header {
     position: fixed;
-    background: #FFF;
     width: 738px;
     z-index: 2;
 
@@ -20,4 +19,9 @@ header {
             width: 210px;
         }
     }
+}
+
+// The main header of each section
+.view-header {
+    background: -webkit-linear-gradient(#fff 55%, rgba(#fff, 0.85));
 }

@@ -135,26 +135,30 @@ h4 {
 /* line 1, scss/modules/_header.scss */
 header {
   position: fixed;
-  background: #FFF;
   width: 738px;
   z-index: 2;
 }
-/* line 7, scss/modules/_header.scss */
+/* line 6, scss/modules/_header.scss */
 header h1 {
   color: #303942;
   padding: 21px 0 13px;
   margin: 0;
   border-bottom: 1px solid #EEE;
 }
-/* line 14, scss/modules/_header.scss */
+/* line 13, scss/modules/_header.scss */
 header .corner {
   position: absolute;
   right: 0px;
   top: 21px;
 }
-/* line 19, scss/modules/_header.scss */
+/* line 18, scss/modules/_header.scss */
 header .corner input[type="text"] {
   width: 210px;
+}
+
+/* line 25, scss/modules/_header.scss */
+.view-header {
+  background: -webkit-linear-gradient(white 55%, rgba(255, 255, 255, 0.85));
 }
 
 /* line 1, scss/modules/_view-sections.scss */
